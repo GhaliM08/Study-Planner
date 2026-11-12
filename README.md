@@ -52,7 +52,7 @@ Type a number from 1 to 6 and press Enter. After each action, the menu appears a
 ## Project Files
 
 - `study_planner.py`: the full program.
-- `Study Planner.ipynb`: the Colab notebook with an explanation, the code, and notes on the interface fix.
+- `Study Planner.ipynb`: an explanation of the project with the full code in one cell.
 - `README.md`: this file.
 
 ## Main Functions
